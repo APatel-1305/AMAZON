@@ -44,10 +44,6 @@ The dashboard includes the following visualizations:
 - **Data Visualization** – Charts, graphs, KPI cards, and geographical mapping.
 - **Data Analysis** – Exploring content distribution and identifying trends.
 
-## Dashboard Preview
-
-![Amazon Prime Video Dashboard](dashboard.png)
-
 ## Project Objective
 
 To develop an interactive business intelligence dashboard that transforms streaming platform data into actionable insights through effective data visualization and exploratory analysis.
