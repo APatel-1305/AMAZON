@@ -52,8 +52,6 @@ To develop an interactive business intelligence dashboard that transforms stream
 
 **Avanee Patel**
 - LinkedIn: [Avanee Patel](https://www.linkedin.com/in/avanee-patel-a403b92a4)
-- GitHub: [Add Your GitHub Profile Link](https://github.com/)
-
 ---
 
 ⭐ If you find this project interesting, feel free to explore the repository!
